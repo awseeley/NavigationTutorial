@@ -156,6 +156,7 @@
 		18837E501B661A4B00010F7B /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
+				LastSwiftUpdateCheck = 0700;
 				LastUpgradeCheck = 0630;
 				ORGANIZATIONNAME = Seemu;
 				TargetAttributes = {
@@ -345,6 +346,7 @@
 				INFOPLIST_FILE = NavigationTutorial/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Debug;
 		};
@@ -355,6 +357,7 @@
 				INFOPLIST_FILE = NavigationTutorial/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Release;
 		};
@@ -411,6 +414,7 @@
 				18837E791B661A4B00010F7B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		18837E7A1B661A4B00010F7B /* Build configuration list for PBXNativeTarget "NavigationTutorialTests" */ = {
 			isa = XCConfigurationList;
@@ -419,6 +423,7 @@
 				18837E7C1B661A4B00010F7B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
